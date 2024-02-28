@@ -11,7 +11,8 @@ function App() {
     <Router>
       <React.Fragment>
         {/* <LandingPage></LandingPage> */}
-        <BlogPage></BlogPage>
+        {/* <BlogPage></BlogPage> */}
+        <ContactUs></ContactUs>
         <Routes>
           {/* <Route path="/contactUs" element={<ContactUs />} />
           <Route path="/" element={<LandingPage />} />
